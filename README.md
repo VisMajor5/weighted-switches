@@ -1,6 +1,6 @@
 # weighted-switches
 
-Small logic nodes to help with wildcard and random-based workflows in ComfyUI.
+Small logic nodes to help with routing, as well as wildcard and random-based workflows in ComfyUI.
 
 ## Included nodes
 
