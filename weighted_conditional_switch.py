@@ -74,7 +74,7 @@ class WeightedConditionalSwitch:
     RETURN_TYPES = ("*", "INT")
     RETURN_NAMES = ("value", "selected_index")
     FUNCTION = "run"
-    CATEGORY = "routing"
+    CATEGORY = "Logic/Routing"
 
     def parse_weights(self, raw_weights, selector):
         if raw_weights is None:
