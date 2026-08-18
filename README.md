@@ -7,19 +7,19 @@ Small logic nodes to help with wildcard and random-based workflows.
 ### Weighted Switch
 
 <p align="center">
-  <img src="doc/images/weighted_switch.png" alt="Weighted Switch in ComfyUI" width="680">
+  <img src="doc/images/weighted_switch.png" alt="Weighted Switch in ComfyUI" width="300">
 </p>
 
 <p align="center">
-  <img src="doc/images/weighted_switch_usage.png" alt="Weighted Switch in ComfyUI" width="680">
+  <img src="doc/images/weighted_switch_usage.png" alt="Weighted Switch in ComfyUI" width="300">
 </p>
 
 ### Weighted Conditional Switch
 
 <p align="center">
-  <img src="doc/images/weighted_cond_switch.png" alt="Weighted Conditional Switch in ComfyUI" width="680">
+  <img src="doc/images/weighted_cond_switch.png" alt="Weighted Conditional Switch in ComfyUI" width="300">
 </p>
 
 <p align="center">
-  <img src="doc/images/weighted_cond_switch_usage.png" alt="Weighted Conditional Switch in ComfyUI" width="680">
+  <img src="doc/images/weighted_cond_switch_usage.png" alt="Weighted Conditional Switch in ComfyUI" width="300">
 </p>
